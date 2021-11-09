@@ -1,0 +1,18 @@
+17/10/21
+PROOF OF CONCEPT
+1.HOW MANY NIC CONTROLLERS WE CAN ATTACH TO A VM?
+BENEFITS OF 2 NIC CONTROLLERS TO A VM?
+2.LIFE CYCLE OF STORAGE ACCOUNT?
+3.HOW MANY VNETS I CAN CREATE IN A SUBSCRIPTION?
+4.ATTACH SHARED DISK FOR 2 VMS AND THE 2 VMS SHOULD SHARE THE DATA FROM THE SHARED DISK?
+5.WHAT IS THE DIFFERENCE BETWEEN MANAGED DISK AND UNMANAGED DISK?CREATE A VM WITH MANAGED DISK AND ONE MORE VM WITH UNMANAGED DISK?
+6.WHAT ARE DIFFERENT KINDS OF SIZES AVAILABLE IN THE AZURE ENVIRONMENT? HOW THEY ARE SEGREGATED WHAT ARE THE BENEFITS OF THE PARTICULAR INDIVIDUAL SIZES?
+7.WHAT ARE SERVICE END POINTS AND PRIVATE END POINTS Managed end points?
+8.what is asynchronus replication of data in the storage accounts? what kind of redundancies will fall into this?
+9.what is NSG? what are the protocols in the NSG attach the NSG in NIC and subnet level blocking the communication in the total azure environment?
+10.take a vnet of 192 address space? take a subnet with only 16 vms allocation create such type of 3 subnets and make ur vms available in your zone level?
+11.complete normal load balancer with external and internal poc? and these vms should be in an availability set?
+12.application gate way with an availability set?
+13.linux backup and proof of crash consistent?
+14.what are the disk encryption methodologis avail in azure how to increase iops of a disk?
+15.create a vnet with 172.16 address create 4 sn with 24 ips database vms in avail set app vms in aval zone attach the load bal exter for app vms attach internal lb to db vms?
